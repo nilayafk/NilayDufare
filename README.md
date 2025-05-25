@@ -2,7 +2,11 @@
 
 Hey there! :wave:
 
-I'm Nilay Dufare, a Bioinformatician, Data Analyst, and Data Scientist who’s genuinely excited about diving into data and uncovering its stories. I’m fascinated by the possibilities of AI, Machine Learning, NLP, and Data Visualization, and I love using these tools to solve real-world problems. I’m always eager to learn, grow, and contribute to projects that make a difference, while collaborating with teams to drive innovation.
+I'm Nilay Dufare, a Bioinformatician, Data Analyst, and Data Scientist who’s genuinely excited about diving into data and uncovering its stories. 
+
+:snowflake:I’m fascinated by the possibilities of AI, Machine Learning, NLP, and Data Visualization, and I love using these tools to solve real-world problems. 
+
+:snowflake:I’m always eager to learn, grow, and contribute to projects that make a difference, while collaborating with teams to drive innovation.
 
 # Skills & Expertise
 
